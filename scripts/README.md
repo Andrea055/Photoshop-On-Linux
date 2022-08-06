@@ -1,0 +1,1 @@
+This folder contains the original scripts, more information in https://github.com/MiMillieuh/Photoshop-CC2022-Linux
